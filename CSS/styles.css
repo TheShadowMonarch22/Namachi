@@ -1,0 +1,31 @@
+body {
+  background-image: url("https://envato-shoebox-0.imgix.net/a25a/8880-5cb5-4102-b30f-493c7bda8713/Plans+construction+back+banner.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1600&s=7275beb2249163188386c6ae0d49408a");
+  text-align: center;
+  margin-top: 70px;
+  background-repeat: no-repeat;
+  color: black;
+}
+h1 {
+  margin: 20px;
+}
+h3 {
+  margin-bottom: 25px;
+}
+.nam {
+  border: 5px solid grey;
+}
+.fab {
+  color: black;
+}
+.fac {
+  margin-bottom: 30px;
+}
+
+btn {
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+
+.hire {
+  margin-left: 20px;
+}
